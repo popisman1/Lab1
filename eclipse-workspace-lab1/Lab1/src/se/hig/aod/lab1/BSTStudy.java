@@ -98,7 +98,7 @@ public class BSTStudy {
 
 	/**
 	 * Läser 'size' antal heltal från filen i 'path' och returnerar dem som en
-	 * lista. (Baserad på hjälpmetoden i lab-PDFen.)
+	 * lista.
 	 */
 	private static List<Integer> loadListFromFile(String path, int size) throws FileNotFoundException, IOException {
 
