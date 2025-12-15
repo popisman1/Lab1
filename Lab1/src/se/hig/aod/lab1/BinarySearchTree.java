@@ -6,13 +6,13 @@ package se.hig.aod.lab1;
 
 public class BinarySearchTree<T extends Comparable<? super T>> implements SearchableDataStructure<T> {
 
-	// Returnerar antalet element i trädet.
+	// Returnerar antalet element i trädet
 	@Override
 	public int size() {
 		return size;
 	}
 
-	// Lägger till ett nytt element i trädet
+	// Lägger till ett nytt element i trädetfgfgfgfg
 	@Override
 	public void addElement(T newElement) {
 		if (newElement == null) {
